@@ -20,9 +20,9 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 Here are the screenshots of the recipe page:
 <div style="display: flex; justify-content: space-around;">
-<img src="https://github.com/user-attachments/assets/32a10922-b2c7-4778-8bbf-a758c466236b" alt="Recipe Page Screenshot 1" width="600" height="1200px"/>
+<img src="https://github.com/user-attachments/assets/32a10922-b2c7-4778-8bbf-a758c466236b" alt="Recipe Page Screenshot 1" width="45%" />
 
-<img src="https://github.com/user-attachments/assets/b8d8996e-1914-40c4-9281-55b6e02e4f49" alt="Recipe Page Screenshot 2" width="600" height="600px"/>
+<img src="https://github.com/user-attachments/assets/b8d8996e-1914-40c4-9281-55b6e02e4f49" alt="Recipe Page Screenshot 2" width="45%"/>
 </div>
 
 ### Links
