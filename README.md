@@ -16,10 +16,14 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Overview
 
-### Screenshot
+# Recipe Page Screenshot
 
-![_D__ansh_New%20folder_recipe-page-main_index html](https://github.com/user-attachments/assets/32a10922-b2c7-4778-8bbf-a758c466236b)
-![_D__ansh_New%20folder_recipe-page-main_index html (1)](https://github.com/user-attachments/assets/b8d8996e-1914-40c4-9281-55b6e02e4f49)
+Here are the screenshots of the recipe page:
+
+<img src="https://github.com/user-attachments/assets/32a10922-b2c7-4778-8bbf-a758c466236b" alt="Recipe Page Screenshot 1" width="600"/>
+
+<img src="https://github.com/user-attachments/assets/b8d8996e-1914-40c4-9281-55b6e02e4f49" alt="Recipe Page Screenshot 2" width="600"/>
+
 
 ### Links
 
